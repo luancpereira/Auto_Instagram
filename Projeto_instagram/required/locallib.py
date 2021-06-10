@@ -1,3 +1,5 @@
+# Inteiramente Desenvolvido Por: Luan Carlos Soares Pereira
+
 import time
 from datetime import datetime
 from selenium import webdriver
